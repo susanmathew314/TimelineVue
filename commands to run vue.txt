@@ -1,0 +1,12 @@
+commands to run vue
+
+
+install node
+npm init vite -- --template vue-ts my-app
+y
+
+  cd my-app
+  npm install
+  npm run dev
+
+
